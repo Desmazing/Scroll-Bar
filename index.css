@@ -4,10 +4,10 @@
     box-sizing: border-box;
 }
 body{
-    background: rgb(52, 45, 45);
+    background: radial-gradient(rgb(248, 251, 251), rgb(249, 246, 246));
     font-family: cursive;
     margin: 40px;
-    color: white;
+    color: black;
 }
 h3{
     text-align: center;
