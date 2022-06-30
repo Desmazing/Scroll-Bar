@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(52, 45, 45);
+    font-family: cursive;
+    margin: 40px;
+    color: white;
+}
+h3{
+    text-align: center;
+    margin: 30px;
+}
+::-webkit-scrollbar{
+    width: 20px;
+}
+::-webkit-scrollbar-thumb{
+    background: grey;
+    border-radius: 30px;
+}
+::-webkit-scrollbar-thumb:hover{
+    background: linear-gradient(transparent, aqua, lime, transparent);
+}
